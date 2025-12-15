@@ -51,4 +51,4 @@ You can use Django’s admin to add products, manage media files, and configure 
 ## 🤝 Contributing
 
 Feel free to fork, suggest improvements or add features via pull requests. Please follow standard Django coding style and keep code clean.
-
+---
